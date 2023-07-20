@@ -54,3 +54,8 @@ main {
 .card p {
     font-size: 14px;
 }
+
+.btn:hover {
+    background-color: orangered;
+    border: 1px solid red;
+}
